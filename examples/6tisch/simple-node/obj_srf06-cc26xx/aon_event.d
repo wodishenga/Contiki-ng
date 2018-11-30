@@ -1,0 +1,19 @@
+obj_srf06-cc26xx/aon_event.o: \
+ ../../../arch/cpu/cc26xx-cc13xx/lib/cc13xxware/driverlib/aon_event.c \
+ ../../../arch/cpu/cc26xx-cc13xx/lib/cc13xxware/driverlib/aon_event.h \
+ ../../../arch/cpu/cc26xx-cc13xx/lib/cc13xxware/inc/hw_types.h \
+ ../../../arch/cpu/cc26xx-cc13xx/lib/cc13xxware/inc/hw_chip_def.h \
+ ../../../arch/cpu/cc26xx-cc13xx/lib/cc13xxware/inc/hw_memmap.h \
+ ../../../arch/cpu/cc26xx-cc13xx/lib/cc13xxware/inc/hw_device.h \
+ ../../../arch/cpu/cc26xx-cc13xx/lib/cc13xxware/inc/hw_aon_event.h \
+ ../../../arch/cpu/cc26xx-cc13xx/lib/cc13xxware/driverlib/debug.h \
+ ../../../arch/cpu/cc26xx-cc13xx/lib/cc13xxware/driverlib/rom.h
+ ../../../arch/cpu/cc26xx-cc13xx/lib/cc13xxware/driverlib/aon_event.c :
+ ../../../arch/cpu/cc26xx-cc13xx/lib/cc13xxware/driverlib/aon_event.h :
+ ../../../arch/cpu/cc26xx-cc13xx/lib/cc13xxware/inc/hw_types.h :
+ ../../../arch/cpu/cc26xx-cc13xx/lib/cc13xxware/inc/hw_chip_def.h :
+ ../../../arch/cpu/cc26xx-cc13xx/lib/cc13xxware/inc/hw_memmap.h :
+ ../../../arch/cpu/cc26xx-cc13xx/lib/cc13xxware/inc/hw_device.h :
+ ../../../arch/cpu/cc26xx-cc13xx/lib/cc13xxware/inc/hw_aon_event.h :
+ ../../../arch/cpu/cc26xx-cc13xx/lib/cc13xxware/driverlib/debug.h :
+ ../../../arch/cpu/cc26xx-cc13xx/lib/cc13xxware/driverlib/rom.h :
